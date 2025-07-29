@@ -7,4 +7,4 @@ and do all work running
 work is ongoing ....
 Try to figma design and work to figma
 figma design complete
-
+...Blog data send complete
