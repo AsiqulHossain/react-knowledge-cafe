@@ -14,7 +14,6 @@ Coming Soon...
 
 - ✅ Browse blog posts
 - ✅ Bookmark favorite articles
-- ✅ Responsive design (mobile + desktop)
 - ✅ Clean UI using Tailwind CSS
 - ✅ Dynamic rendering with React components
 - ✅ Reading time tracking per blog
