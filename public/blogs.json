@@ -1,52 +1,57 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "cover": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade",
     "author": "Ariana Blake",
     "img": "https://i.ibb.co/hRtSB1LG/3048207.jpg",
     "title": "Introduction to Artificial Intelligence",
     "posted_date": "2025-07-20",
     "reading_time": "5 min read",
+    "read_time":5,
     "hashtags": ["#citylife", "#architecture", "#travel"]
   },
   {
-    "id": "2",
+    "id": 2,
     "cover": "https://i.ibb.co/x8KxTNC8/2202757.jpg",
     "author": "Marcus Leong",
     "img": "https://i.ibb.co/x8KxTNC8/2202757.jpg",
     "title": "Climate Change and Its Global Impact",
     "posted_date": "2025-07-18",
     "reading_time": "7 min read",
+    "read_time": 7,
     "hashtags": ["#technology", "#innovation", "#AI"]
   },
   {
-    "id": "3",
+    "id": 3,
     "cover": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
     "author": "Lena Howard",
     "title": "The Rise of Renewable Energy Technologies",
     "img": "",
     "posted_date": "2025-07-15",
     "reading_time": "3 min read",
+    "read_time": 3,
     "hashtags": ["#nature", "#mindfulness", "#hiking"]
   },
   {
-    "id": "4",
+    "id": 4,
     "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475",
     "author": "Devon Carter",
-        "title": "Modern Web Development with React and Tailwind",
+      "title": "Modern Web Development with React and Tailwind",
     "img": "",
     "posted_date": "2025-07-10",
     "reading_time": "6 min read",
+    "read_time": 6,
     "hashtags": ["#coding", "#webdev", "#javascript"]
   },
   {
-    "id": "5",
+    "id": 5,
     "cover": "https://images.unsplash.com/photo-1496346651079-6ca5cb67f42f",
     "author": "Sophia Trent",
         "title": "Understanding Blockchain and Cryptocurrency",
     "img": "",
     "posted_date": "2025-07-05",
     "reading_time": "4 min read",
+    "read_time": 4,
     "hashtags": ["#writing", "#lifestyle", "#creativity"]
   }
 ]
