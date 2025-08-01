@@ -1,6 +1,6 @@
 # Knowledge Cafe ☕️
 
-A modern, responsive blog-style web application built with **React**. The **Knowledge Cafe** allows users to read, filter, and explore insightful blog posts, perfect for tech enthusiasts and lifelong learners.
+A modern, responsive blog-style web application built with **React**. The **Knowledge Cafe** allows users to read, filter, and explore insightful blog posts, perfect for tech enthusiasts and lifelong learners.....
 
 ---
 
