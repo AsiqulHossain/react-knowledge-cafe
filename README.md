@@ -19,7 +19,7 @@ Loading work....... Done
 
 ---
 
-## 🚀 Technologies Used
+## 🚀 Technologies Used.
 
 - **React** (Vite or Create React App)
 - **Tailwind CSS** for styling
